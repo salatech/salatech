@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm solahudeen Abdulrahmon</h1>
-<h3 align="center">Frontend developer.</h3>
+<h3 align="justify">Welcome to my GitHub profile! I am a Front end Engineer Here you can find my personal projects, contributions to open source projects, and some of my work experiences.
+ </h3>
+
 <img align="right" width="400" src="https://cdn.hackernoon.com/images/f2px36fy.gif" alt="salatech" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salatech&label=Profile%20views&color=0e75b6&style=flat" alt="salatech" /> </p>
