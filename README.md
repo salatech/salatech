@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm solahudeen Abdulrahmon</h1>
-<h3 align="justify">Welcome to my GitHub profile! I am a Front end Engineer Here you can find my personal projects, contributions to open source projects, and some of my work experiences.
- </h3>
+- Welcome to my GitHub profile! I am a **Frontend Engineer**. Here you can find my personal projects, contributions to open source projects, and some of my work experiences.
+
 
 <img align="right" width="400" src="https://cdn.hackernoon.com/images/f2px36fy.gif" alt="salatech" />
 
@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salatech" alt="salatech" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/salatech2" target="blank"><img src="https://img.shields.io/twitter/follow/salatech2?logo=twitter&style=for-the-badge" alt="salatech2" /></a> </p>
+<h2 align="left"> <a href="https://twitter.com/salatech2" target="blank"><img src="https://img.shields.io/twitter/follow/salatech2?logo=twitter&style=for-the-badge" alt="salatech2" /></a> </h2>
 
 - 🌱 I’m currently learning **React.js**
 
