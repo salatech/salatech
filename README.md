@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm solahudeen Abdulrahmon</h1>
-Welcome to my GitHub profile! I am a Frontend Engineer. Here you can find my personal projects, contributions to open source projects, and some of my work experiences.
+Welcome to my GitHub profile! I am a Frontend Engineer. Here you can find my personal projects, contributions to open-source projects, and some of my work experiences.
 
 
 <img align="right" width="400" src="https://cdn.hackernoon.com/images/f2px36fy.gif" alt="salatech" />
@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I am a Frontend Engineer. Here you can find my per
 
 <h2 align="left"> <a href="https://twitter.com/salatech2" target="blank"><img src="https://img.shields.io/twitter/follow/salatech2?logo=twitter&style=for-the-badge" alt="salatech2" /></a> </h2>
 
-- 🌱 I’m interested in knowing ajavscript to the deepest!
+- 🌱 I’m interested in everything about javascript!
 
 - 👨‍💻 All of my projects are available at [http://salatech-portfolio.netlify.app](http://salatech-portfolio.netlify.app)
 
