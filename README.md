@@ -4,7 +4,7 @@
 ![GitHub Followers](https://img.shields.io/github/followers/salatech?style=for-the-badge&color=blue)
 ![GitHub Stars](https://img.shields.io/github/stars/salatech?style=for-the-badge&color=yellow)
 
-I'm Solahudeen, a **Frontend Engineer and Mobile Developer** passionate about crafting pixel-perfect, intuitive, and scalable applications. My journey began as a web developer, and over 4 years.  
+I'm Solahudeen, a **Frontend Engineer and a Mobile Developer** passionate about crafting pixel-perfect, intuitive, and scalable applications.
 
 ---
 <br />
@@ -25,11 +25,10 @@ I've worked on impactful projects across industries like **Gaming**, **Health Te
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![TanStack Query](https://img.shields.io/badge/react%20query-%23FF4154.svg?style=for-the-badge&logo=react-query&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/styled--components-%23DB7093.svg?style=for-the-badge&logo=styled-components&logoColor=white)
 
 When I'm not building UIs, you’ll find me:  
-- 📖 **Creating open-source libraries** to solve challenges in the React ecosystem.  
+- 📖 **Contributing to open-source libraries** to solve challenges in the React ecosystem.  
 - 🎥 **Watching tech conference replays** to stay inspired and informed (recommendations are welcome!).
 - 📚 **Teaching tech concepts** and sharing knowledge on [LinkedIn](https://www.linkedin.com/in/solahudeen-abdulrahmon-000a41215/) and [X](https://www.x.com/salatech2)
 
@@ -47,10 +46,10 @@ When I'm not building UIs, you’ll find me:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 - **Frontend Development**: React, TypeScript, JavaScript, HTML, CSS
-- - **Mobile Development**: React Native, Expo.
+- **Mobile Development**: React Native, Expo.
 - **Design**: Figma, UI/UX Principles, Accessibility  
 - **Engineering Leadership**: Mentorship, Agile Processes, Cross-Team Collaboration
-- - **Community Development**: Mentorship, Cross-Team Collaboration
+- **Community Development**: Mentorship, Cross-Team Collaboration
 - **Dev Tools**: Git, Webpack, Storybook, Vite  
 
 ---
@@ -66,13 +65,3 @@ I'm an active contributor to open-source projects, focusing on improving the dev
 - Simplify complex frontend tasks.
 - Enhance performance and scalability.
 - Promote accessibility and usability.
-
----
-<br />
-
-## 📬 Let's Connect!
-
-If you find my work helpful, feel free to star my projects or reach out for collaboration. Let’s build something amazing together!
-
-- 🌐 **Portfolio**: [https://ibnlanre.vercel.app](https://solahudeen.vercel.app)
-- 📧 **Email**: [olaitanlanre28@gmail.com](mailto:solahudeenbabatunde@gmail.com)
